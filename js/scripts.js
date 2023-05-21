@@ -57,7 +57,7 @@ var camisetas = {
 // parâmetros da pesquisa
 
 var parametros_pesquisa = {
-    "quantidade": 100,
+    "quantidade": 1,
     "cor": "colorida",
     "gola": "gola_v",
     "qualidade": "q150",
